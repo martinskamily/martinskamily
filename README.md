@@ -4,7 +4,7 @@
 
 ☆ Estudando por meio do **Alura**👩‍💻
 
-☆ Me desenvolvendo na linguagem **Scratch** e **JavaScript**💻
+☆ Desenvolvendo na linguagem **Scratch** e **JavaScript**💻
 
 ☆ Espaço para organização de projetos da disciplina Pensamento Computacional📚
 
